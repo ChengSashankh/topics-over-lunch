@@ -36,7 +36,7 @@ This is analogous in some sense to the way we generally log into our email accou
 
 So Alice and Bob now agree on a secret key beforehand, and choose a publicly known encryption and decryption method. When Alice sends `Hello Bob`, she encrypts with the function and that specific secret key. Bob then uses the same secret key to decrypt the message. The eavesdropper obtains the encoded message, and knows the method to decrypt a message in general, but is unable to do so without the secret key. 
 
-![Figure 1: Encryption and Decryption](Figure 1.png)
+![Figure 1: Encryption and Decryption](images/Figure_1.png)
 
 This is one simple way Alice and Bob can encrypt their messages to keep them secret from eavesdroppers. This systems seems to work, provided that:
 
