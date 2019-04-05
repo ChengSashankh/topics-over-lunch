@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## Cryptography 101 lunch
 
-You can use the [editor on GitHub](https://github.com/ChengSashankh/topics-over-lunch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The subject of Crytography has always been the subject of much media speculation and public interest, and has suffered the degree of distortion guaranteed of such topics. To an uninformed reader, it may appear that any meaningful understanding of Cryptography requires a strong mathematical background and knowledge of computer software. While this is certainly true of those aspiring to work with such systems, some valuable insights and ideas are conveyed well regardless of subject training.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is the problem?
 
-### Markdown
+We begin by characterising the problem that motivates some well known Cryptographic protocols. Suppose that two individuals Alice and Bob wish to communicate with each other through some medium (letters, perhaps), on some important matters. The problem arises that this communication could be attacked a malicious party, who decides to: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- spy on the communication, hence compromising the **confidentiality** of the conversation
+- forge messages in the communication, hence compromising the **authenticity** of messages
+- seize all letters from the mailbox and preventing their delivery, hence compromising the **availability** of a communication system
+
+It is easy to see that parties with truly malicious intent could cause damage by interfering in private communications such as those between a client and a bank, for example. Cryptography focuses on the former two of these problems, there is not much meaning to exploring any communication system when messages are arbitrarily stolen. We now set about the task of exploring systems that satisfy these requirements. 
+
+### Building a secure system
+
+
 
 ```markdown
 Syntax highlighted code block
