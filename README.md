@@ -3,7 +3,11 @@ Topics over lunch is written with the motivation of bringing fascinating topics 
 # Table of Contents
 1. [Encryption over lunch](#encryption-over-lunch)
 2. [Assymetric Encryption](#creating-a-shared-secret)
-3. [Review of CS3216](#cs3216-learning-outcomes)
+3. [CS3216: The first task](#cs3216-what-i-will-learn)
+4. [CS3216: Making Great Presentations](#cs3216-good-presentations)
+5. [CS3216: On Cross Platform Mobile Apps](#cs3216-cross-platform-mobile-apps)
+6. [CS3216: Financing A Startup](#cs3216:-financing-a-startup)
+6. [Review of CS3216](#cs3216-learning-outcomes)
 
 ## Encryption over lunch
 
@@ -100,6 +104,233 @@ The above protocol allows use to now see completely how two unrelated parties ca
 The practicality of symmetric encryption is now vastly extended. It can be possible for two parties who have never met before, to communicate confidentially without having to share any secrets before hand. This brings the simplicity of symmetric encryption to use in the era of the internet. 
 
 Even with this protocol, a multitude of issues remain unresolved and undiscussed. We will further our discussion of secure communication in later sections.
+
+## CS3216: What I will learn
+
+One of the ideas that has stuck with me is that ordinary people can do extraordinary things (Elon Musk). In essence it captures the idea that any ceiling we define for our own abilities will only serve to limit us, and the only true way to keep improving is to always increase "the ask" from ourselves. This is the mindset I bring into CSS3216. My learning objectives from the course are hence of two streams.
+
+ 
+
+The first stream is involved with the process of developing a software product and working through the (long) path from ideation to solution.
+
+ 
+
+I am interested in learning about and experiencing the process of identifying a problem statement, and understanding some defining traits of a good product. I hope to be a resourceful teammate who can quickly adapt to different teams and projects, and contribute to the effort by hitting the ground running. Alongside, I would like to leap out of my comfort zone (in terms of tech stack or role within the team) and learn to contribute in roles that I currently do not feel confident in. After all, in a world as dynamic as software product development, there is no skill we can wave away as unnecessary.
+
+ 
+
+I would also like to consciously engage in peer learning. During the networking activity in the first lecture, I discovered several (future) teammates who have skills I would like to pick up (design, UX, etc.) and I would like to actually learn some tangible skills from them. To me it appears that the problem statements of the assignments are really only head fakes to help with these learning outcomes. Finally, and most obviously, I would like to gain experience building quick prototypes that have the ability to showcase the impact of an idea.
+
+ 
+
+The second stream of learning is to embark on a truly involved thought journey on the traits of highly motivated people and discover the limits of my abilities.
+
+ 
+
+“The Last Lecture” was truly an incredible way to begin this journey, and I found myself inspired to think more about this stream of learning objectives. I am entering CS3216 with intent to push myself further and learn several things from this process. It is my previous experience that every hard learning experience teaches me some valuable lessons about how to learn better in the future, and they have served me well in every part of life. At the end of this module, I hope to emerge with a more refined process of learning, and valuable insights on how I can improve my work style. I want to teach myself to not be satisfied with a project, and go through with that extra iteration (or perhaps ten) that will help me improve even more.
+
+
+I am sure my learning goals in CS3216 will evolve over the semester owing to the diversity of class, and the varied nature of the tasks. I look forward to the experiences, and of course "staying hungry and staying foolish".
+
+## CS3216: Good Presentations
+
+What if I told you that this thirty second read could increase the chances that your start-up wins a huge grant? I believe that the learning outcomes from the talks were extremely important, actionable and presented immaculately, and can be an asset if used properly to enhance your presentations.
+
+This session covered two topics: UX and Presentation Skills. Through the class, I was able to develop an idea of the high level process of iterating over design and some ideas on how I could improve the impact of a presentation. 
+
+The following are the key lessons for me from the class:
+
+Focus is key: If you don't have focus, you're really just shooting from the hip.
+
+This learning outcome was common to both sessions in the class.
+
+During the presentation session, I learnt that if you don't have a 30 second version of your presentation, you don't have a presentation at all. The most important part of a presentation is the 2-3 key points you want to get across to the user, failing which the whole presentation was to no avail. It is important to structure your presentation to be able to deliver this message in an impactful manner, and some of the strategies to do this were my other salient learning outcomes. My action item from this is to always evaluate my presentations by checking that I can distill this essence out of all my talks, and that they are aligned with the goal I began with. All numbers, facts and content must hold some relevance to one of these key outcomes.
+
+During the UX talk, I learnt that focus on the primary problem we are trying to solve is extremely important and that this must manifest itself not just in the form of the product and its features, but also in the experience we provide the users, from aesthetics to design and process. It is far more important to work on improving the feature that really solves the issue, and it's usability rather than developing other peripheral features. This should be the driving force behind the design phase of the task. 
+
+Inspire Action: Presentations that inspire action from the audience are the most successful ones.
+
+This learning outcome is specific to the presentation section of the class. 
+
+There are presentations that change what you know or believe, and then there are those that change how you behave. I learnt that the most impactful presentations are of this kind, and provide the best avenue to share an idea with people, be it a product or something else. Inspiring action from the audience requires us to introspect on what they gain from this presentation (or WIIFY). Whats-In-It-For-You (WIIFY) is a great way to remember to share with the audience what they stand to gain from the presentation or what they risk losing if they miss it. 
+
+Grabbing their attention is a necessary prerequisite to this, and this can be accomplished in a number of ways. The ones that I found most attractive were the ones that Challenged the user, those that were Personal, and those that began with a "What if I told you .. " statement.
+
+Ultimately, I understood that a combination of rational and emotional factors play a role in inspiring action, and learnt some ways to tap into these. My action item form this is to ensure that I focus on inspiring action (e.g., using a product) from my audience than merely sharing information about my product.
+
+Last peak of interest: You get a lot of attention when you're wrapping up. Don't waste it.
+
+While this may seem like a small learning outcome for many people, to me this was extremely significant. Prof Damith shared a valuable insight on the fact that the last peak of interest that we get from the audience is when we say "In conclusion, .." or another sentence that flags the ending. I learnt that we must harness this, and from my own experience I have found that talks that used the ending to reiterate the key points left me thinking about them more. This is best utilised for a call to action, sharing a core message or something very important to the talk.
+
+In summary this class left me with great learning outcomes on how to develop a presentation or a product that really speaks to the user's needs. Apart from these outcomes I learnt about a great way to structure presentations as well. I look forward to applying these during future tasks. 
+
+## CS3216: Cross Platform Mobile Apps
+
+During this week’s lecture, we explored the development of cross platform applications using React Native and Flutter, and contrasted these with developing native applications. Through this lecture, I learnt about the challenges of developing applications for multiple platforms (such as Android, iOS and web), and the nuances that come with selecting the tech stack.
+
+
+
+I had three primary learning outcomes from this lecture:
+
+
+
+Selecting the right tool for the right job
+The trouble with cross-platform apps
+Reality of maintaining cross-platform apps
+
+ 
+
+Right tool for the right job
+
+My first learning outcome from the lecture was that we must make sure we select the “right tools for the right job”.
+
+ 
+
+Developing a good product involves taking into account a good representation of the expectations of the users, and this may involve factoring in the hardware they use, their primary use cases, internet connection speed, etc. This induces constraints on the tech stack, and the developers and product managers must be sure to respect these user requirements while choosing the stack.
+
+ 
+
+In the real world, there is no silver bullet that ticks all the boxes. Sometimes, the right solution is a non-standard composite solution that selects the right tool for each job, similar to the one Prof Ben described from his experience.
+
+ 
+
+Ultimately, it all comes down to separating the product from the tools we use. We must ensure that the product requirements come first, and that if need be, we alter the stack to suit those needs.
+
+ 
+
+The trouble with cross-platform applications
+
+ 
+
+Having never simultaneously supported an application on different OS, I was quite interested to learn some of the key difficulties of developing and maintaining cross platform applications.
+
+
+
+Cross platform applications are challenging from the perspective of management, development and maintenance, and the lecture gave some great insights on industry practices and challenges.
+
+Individually having multiple teams develop native applications for each platform is an expensive solution that also requires great deal of co-ordination to ensure that the different apps provide similar user experience, identical features and follow the same release schedule. As a result, the speakers presented some alternatives for cross-platform development.
+
+But solutions such as React Native and Flutter come with their own baggage. While a single code base is supposed to be perform identically on different platforms, sometimes the requirements of the product might not permit the subtle differences between the platforms, and will then require manual effort. Further some native development is required to support custom features and views that are too complex for RN or Flutter.
+
+ 
+
+Maintenance of this code also presents challenges as the frequent releases with breaking changes require manual intervention. The updates also come with a deadline and require quick action on these fronts.
+
+ 
+
+How it happens in the real world
+
+ 
+
+The perspective from the psLove and Amulya on how these challenges may be handled in a production environment were quite eye opening. I understood the importance of weighting capabilities, limitations and developer satisfaction, while deciding the tech stack for a product/project.
+
+ 
+
+Additionally, I learnt about the tradeoffs while working with Flutter and ReactNative in terms of the performance, abilities and limitations. This gave me perspective on when to switch to Native, should the need arise.
+
+
+I also understood the difficulties of performing regression testing while working with technologies that are updating so quickly, and learnt about how this is done for some production applications.
+
+ 
+
+In summary, from this lecture I learnt about the importance of selecting the right tools, the difficulties of developing cross-platform apps and the practicalities of maintaining them in the real world.    
+
+## CS3216: Financing A Startup
+
+In the interest of avoiding the pitfalls of writing a wall of text (that we were warned against today), here are my top 3 learning points from today. These are the summary of what I found most useful today: 
+
+
+1. how much money to take
+2. from whom we should take money
+3. how to do it.
+
+### How much money is the right amount of money?
+
+How much to raise money is an art and not a science. That said, there are some important issues that should be considered. Raising money should never become the focus of the business, it should only serve to mitigate two issues:
+
+- Too little money can shorten your runway, and prevent you from taking off
+- Too much money can land you in trouble:
+
+    - It can encourage irresponsible spending practices, as evidenced by the Pakistani ride sharing companies which did not fare as well as the ones that raised lesser amounts. 
+
+    - You may not be able to justify your valuation, e.g., WeWork
+
+    - You may not be able to deliver on the expectations on that investment
+
+### Who are interested in investing, and why?
+
+Always bear in mind what your investors believe in, and what they want from you. This will help you ensure that your directions do not diverge vastly at some point, and manage expectations well.
+
+- Friends, family and fools: They might provide money simply to help you pursue your dream.
+
+- Angels: They care about receiving money back, or in some cases “paying it forward”
+
+- Grants and governments: These must be worked on with caution since they are usually given out with some idea/agenda behind 
+
+- Venture capitals: These people are in the business of actually identifying good ideas and throwing their money behind them. 
+
+Venture capitalists are the most reliable, and here is how you excite them:
+
+- Team: Show them that you have the right people 
+
+    - These are evaluated by proxies (much like the job market, it seems)
+    - Track records of the people and their backgrounds
+
+- Unfair and exclusive advantages:
+    - Patents, licenses and other permits that may prove to be a barrier to entry for competitors
+    - Pre-existing assets relevant to this business
+    - Vendors and customers locked in
+
+- Hot markets and segments:
+    - VCs will flock to hyped market segments
+    - Potential 
+
+- Early traction:
+    - Revenues, real users, and people really paying to use your services are all good indicators for VCs
+
+### FAQs on the Structure of Financing Rounds
+
+This is one of my key learning points because I keep hearing these things, but didn’t know what they meant until now. This may be of some use to look at:
+
+- Why does an investor invest? 
+
+    They give you money to build your company, and in exchange they get a proportional amount of your future proceeds and profits.
+
+    Dividend: Dividing up the profits among the shareholders of the company.
+
+- Are there other ways of raising money?
+
+    Debt: Asking for money from a bank, and promising to pay back with interest is one way. 
+
+    This is risky for the investor for a startup without collateral, and that is dangerous for you. 
+
+    Convertible Debt: If you do not pay, they will just take up shares of the company instead at a later point. 
+
+    This can be useful when the valuation of the company is unclear. You can defer the discussion of valuation to a later date.
+
+    This can go really fast, so speed of closing is higher. 
+
+- How do people value start-ups?
+
+    Depends. Do you want the theoretical answer or the practical answer?
+
+    Theory: Revenue, profits, users, etc. 
+
+    Practice: Whatever the entrepreneur and the investor agree its worth
+
+- Who owns how much of the pie?
+
+    In every investment round, new investors will take about 10-15%, and dilute the existing shareholders. So the ownership of the company gets fragmented.
+
+- What do you pay yourself?
+
+    Some general principles that can help you decide your own salary:
+
+        - Your salary shouldn’t be too high: it should hurt if the company goes bust
+        - It shouldn’t be too low: Don’t lay awake wondering what you will eat tomorrow
+
+
+Nugget of Information: Why do you think Grab has to be a bank now? It seems to be the only way to justify their valuation.
 
 ## CS3216 Learning Outcomes
 
