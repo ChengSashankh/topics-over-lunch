@@ -6,7 +6,7 @@ Topics over lunch is written with the motivation of bringing fascinating topics 
 3. [CS3216: The first task](#cs3216-what-i-will-learn)
 4. [CS3216: Making Great Presentations](#cs3216-good-presentations)
 5. [CS3216: On Cross Platform Mobile Apps](#cs3216-cross-platform-mobile-apps)
-6. [CS3216: Financing A Startup](#cs3216:-financing-a-startup)
+6. [CS3216: Financing A Startup](#cs3216-financing-a-startup)
 6. [Review of CS3216](#cs3216-learning-outcomes)
 
 ## Encryption over lunch
